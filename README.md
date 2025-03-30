@@ -17,7 +17,7 @@ The goal is to compare the performance of Python **3.13** (with GIL) and Python 
   ```sh
   uv python install 3.13t
   ```
-- Init the project usig uv:
+- Init the project with uv (in the repository gil-vs-no-gil):
   ```sh
   uv init
   ```
