@@ -10,11 +10,11 @@ The goal is to compare the performance of Python **3.13** (with GIL) and Python 
 
 ## Prerequisites
 - Install **Python 3.13** (standard version)
-```sh
+  ```sh
   uv python install 3.13
   ```
 - Install **Python 3.13t** (experimental version with GIL disabled) 
-```sh
+  ```sh
   uv python install 3.13t
   ```
 - Init the project usig uv:
